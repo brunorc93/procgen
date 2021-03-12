@@ -44,5 +44,8 @@ sysinfo.txt
 
 # Local Generation Save files
 # ============================
-**/SavedGen
-**/SavedGen/
+**/[Ss]aved[Gg]en/
+**/[Oo]ld/
+**/[Ee]xample/
+**/_[Hh]elp/
+**/_[Ii]nspirations/
