@@ -8,9 +8,6 @@ This project was created as separated modules able to run independently and thos
 
 1. [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
 1. [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
-1. [empty repo](empty repo)  
-1. [empty repo](empty repo)    
-1. [empty repo](empty repo)
 > more links will be added as soon as the modules are ported onto C#.net for ease of use.  
 
 The project currently can only be visualized within Unity. It has 3 Scenes:
