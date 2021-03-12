@@ -1,0 +1,141 @@
+AbandonedVillage: 1000102;
+  mostly flat or with lower steepness so that houses can be built on it
+  standard HMp
+Alps: 1100202;
+  chain of mountains, very steep terrain
+  needs mask + secondary HMp
+  mountain mask + alps HMp
+
+  ??? noise -> one single mountain range
+
+BambooForest: 1100305
+  mostly flat with some degree of height variation and
+  needs mask + secondary HMp
+  standard mask + forest HMp
+Desert: 1000401
+  lots of dunes; very wavy terrain with lots of vales and peaks
+  needs mask + secondary HMp
+  mountain mask + desert HMp
+
+  ??? noise -> maybe some kind of ridged multifractal noise
+
+DuelingPeaks: 1100205
+  2 peaks separeted by a fissure in the middle of a formerly single mountain
+  needs mask + secondary HMp
+  mountain mask + DualPeaks HMp
+
+  ??? noise -> lone mountain noise + some line threshold where height = 0;
+
+FlatLand: 1000501
+  flat terrain with very little height variation 
+  standard HMp
+GeyserField: 1100204
+  montainous terrain with lots of flatenned areas covered by geysers, so it is in an flatenned elevated area
+  needs mask + seconday HMp
+  mountain mask + GeyserField HMp
+Hills: 1000502
+  rounder wavy terrian with lots of vales and peaks just like paris in the old ages
+  needs mask + secondary HMp
+  standard mask + Hills HMp
+LencoisMaranhenses: 1000403
+  lots of dunes; very wavy terrain with lots of vales and peaks. the vales are covered in crystaline water
+  needs mask + secondary HMp
+  mountain mask + Lencois HMp (similar to desert but with water)
+LoneMountain: 1100201
+  a single mountain much like mount fuji or erebor that extends over the whole biome
+  needs mask + secondary HMp
+  mountain mask + loneMountain HMp
+Marsh: 1100602
+  mostly flat terrain with lots of small variations in height were lots of little ponds form
+  needs mask + secondary HMp
+  standard mask + wetland HMp
+Mesa: 1000402
+  flat desert with lots of tower formations and some plateaus just like the area in Zelda BotW near the desert
+  needs mask + secondary HMp
+  plateau mask + Mesa HMp
+MossForest: 1100304
+  high variation in terrain steepness generating a hard to walk terrain with an lower average height
+  needs mask + secondary HMp
+  standard mask + MossForest HMp
+Plateau: 1000503
+  high flat surface above neighbour biomes
+  needs mask + secondary HMp
+  plateau mask + plateau HMp
+RainForest: 1100303
+  mostly flat terrain covered in water dig rivers generating some height variation
+  needs mask + secondary HMp
+  standard mask + rainForest HMp
+Ravine: 1100206
+  mountaineous terrain with a path crossing the mountains at lower height as if the mountains had a big or several big fissures
+  needs mask + secondary HMp
+  mountain mask + Ravine HMp
+
+  ridged noise
+
+RuinedVillage: 1000103
+  mostly flat terrain where it was possible to build something that ressembles a village, 
+  standard HMp
+RuralArea: 000505
+  mostly flat terrain where it is possible to grow crops
+  standard HMp
+Savannah: 1000302
+  mostly flat terrain with some variations in height
+  needs mask + secondary HMp
+  standard mask + forest HMp
+Swamp: 1100601
+  mostly flat terrain with lots of small ponts this terrain can support trees
+  needs mask + secondary HMp
+  standard mask + wetland HMp
+Taiga: 1200301
+  mostly flat terrain with some variations in height
+  needs mask + secondary HMp
+  standard mask + forest HMp
+Tundra: 1000504
+  mostly flat terrain with some variations in height
+  needs mask + secondary HMp
+  standard mask + forest HMp
+Village: 1000101
+  mostly flat terrain with some variations in height
+  standard HMp
+Volcano: 1100203
+  a single mountain with ongoing volcanic activity and an open crater in its peak much like mount fuji or erebor that extends over the whole biome
+  needs mask + secondary HMp
+  mountain mask + volcano HMp
+Beach: 2000701
+  low steepness and arrives at sealevel (0 height) at its border with the void
+  standard HMp
+Causeway: 2000503
+  high discrete variation in height with lots of 100% flat surfaces
+  needs mask + secondary HMp
+  coast mask + causeway HMp
+Cliff: 2000501
+  very high at its border with a huge wall to the void
+  needs mask + secondary HMp
+  cliff mask + cliff HMp
+Harbour: 2000101
+  no idea...
+  needs mask + secondary HMp
+  harbour mask + harbour HMp
+RockyCoast: 2000502
+  high variation in terrain steepness generating a hard to walk terrain with almost no flat surfaces
+  needs mask + secondary HMp
+  coast mask + rockyC HMp
+StrandPoE: 2000702
+  very high at a certain distance from its border with the next point in direction to the boder in a way lower position then it has a slow descend into sea level like a beach
+  needs mask + secondary HMp
+  strand mask + strand HMp
+
+
+apply same noise generated HMp to all the terrain
+take specific biomes and create a mask
+apply noise generated HMp for each specific biome with a mask and apply those HMps to main HMp using the mask
+
+ID:
+[4][6][1][1][0][0]
+0-Type
+1-Subtype
+2-MAXnCanAppear
+3-MustHaveQtt
+4-InlandxCoastal
+5-Enabled
+6-BoundaryRoads

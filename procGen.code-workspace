@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+    {
+      "path": "..\\_09_X_unorganized - Self_Guide\\guides"
+    },
+    {
+      "path": "..\\_09_X_unorganized - Self_Guide\\templates"
+    }
+  ],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"terminalCursor.foreground": "#00ffaa"
+		},
+    "terminal.integrated.cursorBlinking": true,
+    "git.ignoreLimitWarning": true,
+	}
+}

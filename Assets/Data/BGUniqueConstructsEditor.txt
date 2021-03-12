@@ -1,0 +1,22 @@
+0-Inland(1)xCoast(2), 1-BiomeSubType,        2-BiomeType,          3-Construct,    4-MAXnCanAppear,      5-MAXnCanAppearPerBiome,    6-Enabled,      7-ForbiddenBiomesList,      8-RollWeight,          9-ID    10-Scalable    
+
+1,                    Mountain,              Any,                  Cave,           2,                    1,                          0,              NO,                         5.000,                 001,    1             
+2,                    Village-Beach,         Any,                  Pier,           1,                    1,                          1,              NO,                         3.000,                 002,    0             
+1,                    Forest,                Taiga,                Hunter'sHut,    2,                    1,                          1,              NO,                         8.000,                 003,    0             
+1,                    Forest,                MossForest,           Witch'sHut,     1,                    1,                          1,              NO,                         3.000,                 004,    0             
+2,                    Any,                   Any,                  Lighthouse,     3,                    1,                          1,              NO,                         2.000,                 005,    0             
+1,                    Any,                   Any,                  RegularLake,    2,                    2,                          1,              SUBTYPE-Desert,             2.000,                 006,    1             
+1,                    Desert,                Any,                  Oasis,          1,                    1,                          1,              NO,                         4.000,                 006,    1             
+2,                    Any,                   Any,                  MtStMichel,     1,                    1,                          0,              NO,                         0.001,                 008,    1             
+1,                    Mountain,              Volcano,              HotSpring,      1,                    1,                          1,              NO,                         3.000,                 006,    1             
+1,                    Desert,                Desert,               QuickSand,      1,                    1,                          1,              NO,                         9.000,                 016,    1             
+1,                    Any,                   Any,                  InlandTemple,   3,                    1,                          1,              NO,                         1.000,                 003,    0             
+2,                    Any,                   Any,                  CoastTemple,    4,                    1,                          1,              NO,                         1.000,                 003,    0             
+1,                    Mountain,              GeyserField,          HellLake,       1,                    1,                          1,              NO,                         3.000,                 006,    1             
+1,                    Forest,                Any,                  EyeLake,        1,                    1,                          1,              NO,                         2.000,                 014,    1             
+1,                    Mountain,              Any,                  Waterfall,      3,                    3,                          0,              NO,                         4.000,                 015,    1             
+1,                    Land,                  Plateau,              Waterfall,      3,                    3,                          0,              NO,                         1.000,                 016,    1             
+1,                    WetLand,               Marsh,                TurtleMovingHut,1,                    1,                          0,              NO,                         1.000,                 017,    0             
+1,                    Land,                  Hills,                HobbitHole,     3,                    3,                          1,              NO,                         3.000,                 018,    0             
+
+quarry
