@@ -18,7 +18,7 @@ TemplateGenerator.txt
 
 # VSCode files
 # ===============
-.code-workspace
+*.code-workspace
 .vscode/
 
 # OS Generated
