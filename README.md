@@ -14,4 +14,4 @@ The project currently can only be visualized within Unity. It has 3 Scenes:
 1. Island Shape generation that returns a Texture2D with the shape of the island  
 1. Visualizing Noise results (e.g.: fractal noise, simple Perlin noise, clamped noise, ridged noise)
 1. Project loading a pre produced shape and showing the generated 3D terrain in a second camera as well as a UI showing the names for each biome.
-> full vizualization through this repo's README file will be added along the way.
+> full visualization through this repo's README file will be added along the way.
