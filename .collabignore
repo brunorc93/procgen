@@ -42,10 +42,11 @@ sysinfo.txt
 *.code-workspace
 .[Vv][Ss][Cc]ode/
 
-# Local Generation Save files
+# Custom files
 # ============================
 **/[Ss]aved[Gg]en/
 **/[Oo]ld/
 **/[Ee]xample/
 **/_[Hh]elp/
 **/_[Ii]nspirations/
+[Gg]it[Hh]ub/
