@@ -1,4 +1,4 @@
-# procgen
+# ProcGen
 
 Terrain Procedural Generation
 
@@ -11,9 +11,10 @@ This project was created as separated modules able to run independently and thos
 1. [empty repo](empty repo)  
 1. [empty repo](empty repo)    
 1. [empty repo](empty repo)
-> (more links will be added as soon as the modules are ported onto C#.net for ease of use).  
+> more links will be added as soon as the modules are ported onto C#.net for ease of use.  
 
 The project currently can only be visualized within Unity. It has 3 Scenes:
 1. one for Island Shape generation that returns a Texture2D with the shape of the island  
 1. one for visualizing Noise results (e.g.: fractal noise, simple Perlin noise, clamped noise, ridged noise)
-1. and one that runs the entire project loading a pre produced shape and showing the generated 3D terrain in a second camera as well as a UI showing the names for each biome
+1. and one that runs the entire project loading a pre produced shape and showing the generated 3D terrain in a second camera as well as a UI showing the names for each biome.
+> full vizualization through this repo's README file will be added along the way.
