@@ -8,6 +8,7 @@ This project was created as separated modules able to run independently and thos
 
 1. [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
 1. [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
+3. [Noise - next](https://github.com/brunorc93/noise)  
 > more links will be added as soon as the modules are ported onto C#.net.  
 
 The project currently can only be visualized within Unity. It has 3 Scenes:
