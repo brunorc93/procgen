@@ -6,9 +6,9 @@ Created in Unity3D using C#, unity's Texture2D, 3D Quads and Terrain features.
 
 This project was created as separated modules able to run independently and those modules have been ported to C#.net. They can be seen in the following repos:
 
-1. [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
-1. [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
-3. [Noise](https://github.com/brunorc93/noise)  
+* [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
+* [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
+* [Noise](https://github.com/brunorc93/noise)  
 > more links will be added as soon as the modules are ported onto C#.net.  
 
 The project currently can only be visualized within Unity. It has 3 Scenes:
