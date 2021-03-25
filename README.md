@@ -10,6 +10,7 @@ This project was created as separated modules able to run independently and thos
 * [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
 * [Noise](https://github.com/brunorc93/noise)    
 * [HQ2nxNoAA](https://github.com/brunorc93/HQnx-noAA.net)  
+* [Generator preview - minimap](https://github.com/brunorc93/minimap)
 > more links will be added as soon as the modules are ported onto C#.net.  
 
 The project currently can only be visualized within Unity. It has 3 Scenes:
